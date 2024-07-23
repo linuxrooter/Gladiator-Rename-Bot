@@ -10,3 +10,4 @@ psutil
 pyromod
 ffmpeg-python
 ffmpeg
+gunicorn==19.7.1
