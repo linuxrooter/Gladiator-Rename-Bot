@@ -1,3 +1,4 @@
+python-3.10.12
 pyrogram==2.0.93
 TgCrypto
 motor
